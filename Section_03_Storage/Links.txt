@@ -1,0 +1,5 @@
+AWS Billing Console
+https://aws.amazon.com/pt/aws-cost-management/aws-billing/
+
+AWS S3 Storage
+https://aws.amazon.com/pt/s3/
